@@ -1,0 +1,10 @@
+1 1780300000 Trabajo Sueldo_practicas_pre 1200.00
+2 1780500000 Donacion Mesada_de_padres 300.00
+3 1780800000 Ventas Venta_de_arduino_usado 45.00
+4 1781100000 Trabajo Asesoria_de_laboratorio 50.00
+5 1781400000 Otros Devolucion_de_pasajes 15.00
+6 1781398887 Trabajo Sin_asignar 100.00
+7 1781398893 Trabajo Sin_asignar 200.00
+8 1781398904 Trabajo Sin_asignar 1000.00
+9 1781398917 Taxeando Sin_asignar 10.00
+10 1781398931 Taxeando Sin_asignar 10.00
